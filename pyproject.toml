@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "events-django-htmx"
+name = "events"
 version = "0.1.0"
 description = ""
 authors = ["anne"]
