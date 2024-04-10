@@ -1,0 +1,50 @@
+[
+    {
+        "model": "events.artisticgenre",
+        "pk": "00bb45a4-3936-477b-8113-323c57f51f08",
+        "fields": 
+            {
+                "name": "théâtre"
+            }
+    },
+    {
+        "model": "events.artisticgenre",
+        "pk": "e459b7ec-c4ae-4782-a691-4592e30153a7",
+        "fields": 
+            {
+                "name": "danse"
+            }
+    },
+    {
+        "model": "events.artisticgenre",
+        "pk": "7f3cdd55-0ca2-4157-9aec-d41ee4badb5a",
+        "fields": 
+            {
+                "name": "cinéma"
+            }
+    },
+    {
+        "model": "events.artisticgenre",
+        "pk": "97b65af6-37fe-45f7-b625-64adba2faaad",
+        "fields": 
+            {
+                "name": "littérature"
+            }
+    },
+    {
+        "model": "events.artisticgenre",
+        "pk": "5c0b2cb2-24b2-4633-84db-e769fe44ee25",
+        "fields": 
+            {
+                "name": "performance"
+            }
+    },
+    {
+        "model": "events.artisticgenre",
+        "pk": "1be1f8c8-66f3-474f-acbe-1b6989775e2e",
+        "fields": 
+            {
+                "name": "jeux vidéos"
+            }
+    }
+]
